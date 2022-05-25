@@ -1,0 +1,45 @@
+
+
+# Run in development
+npm run dev
+
+# Run in production
+npm start
+
+
+install of packages and stuff:
+npm init
+npm i express mongoose connect-mongo express-session express-handlebars dotenv method-override moment morgan passport passport-google-oauth20
+
+npm install --save-dev nodemon cross-env
+npm i truncate 
+
+
+> User Materialized for CSS and JS
+currently used CDN
+>cndjs.com  --- for font CSS
+
+Utils Used:
+port = 5000
+
+mongo DB : StoryBook
+connection string:
+mongodb+srv://changuMongu:fUpARMeHgSreGqvw@testcluster.2munc.mongodb.net/StoryBook?retryWrites=true&w=majority
+
+
+
+>Go to google cloud console:
+https://console.cloud.google.com/getting-started?pli=1
+
+Api Redirect :
+http://localhost:5000/auth/google/callback
+
+Client Id : 570100048963-inpm5gd1pef33on6ikj8r86becl4pa5d.apps.googleusercontent.com
+Client Secrect : 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
+
+
+>Passportjs :
+https://www.passportjs.org/packages/passport-google-oauth2/
+
+
+Last done : Add stories  
